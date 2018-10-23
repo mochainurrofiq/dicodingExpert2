@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_move_activity" type="id">btn_move</item>
+    <item name="tv_data_received" type="id">dataReceived</item>
+</resources>

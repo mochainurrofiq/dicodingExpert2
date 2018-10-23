@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">dicodingExpert2</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="ini_halaman_move_activity">Ini Halaman Move Activity</string>
+    <string name="activity_with_data">Activity With Data</string>
+    <string name="data_received">Data Received</string>
+    <string name="pindah_dengan_object">Pindah Dengan Object</string>
+    <string name="objectreceived">ObjectReceived</string>
+    <string name="dial_number">Dial Number</string>
+</resources>
